@@ -1,0 +1,26 @@
+.container{
+  width: 100%;
+  background-color: #212427;
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+}
+
+.wrapper{
+  width: 80%;
+  display: flex;   
+  justify-content: center;
+}
+
+.dev{
+ font-weight: bold;
+}
+
+.socials{
+  font-weight: 900;
+}
+
+.backed{
+  display: flex;
+}
+
